@@ -121,7 +121,7 @@ h2{
 
 /*Main*/
 
-#Main{
+.centrepage{
 	margin: 50px 150px;
 	height: 1000px;
 	border-left: double  #b3b3b3;
@@ -178,7 +178,7 @@ h4{
   font-family: Lato;
 }
 /*footer */
-#footer{
+.piedpage{
 	height: 60px;
     margin-left: -30px;
     margin-right: -30px;
